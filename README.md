@@ -11,4 +11,6 @@ We are going to be exploring questions such as:
 - Which category of majors have the most students?
 - Using a variety of data visualisations.
 
-This project is based on the advice and help of the guided project for Dataquest.
+The "Basics" notebook file holds the overall notebook for the work and the "recent_grads.csv" is the original data this work is based off of.
+
+This project is based on the advice and help of the guided project from Dataquest.
